@@ -12,7 +12,9 @@ Data source was web source,from https://www.bankrate.com/retirement/best-and-wor
 # Data Cleaning:
 This was done via Transfomation prior toloading the data from Power quary.
 # Findings:
-With reference to Bankrate,Georgia is the bet state to retire in the US,
+![](images/BestStatestoRetireinUS.png)
+With reference to Bankrate,Georgia is the best state to retire in the US,
+![](images/WorstStatestoRetireinUS.png)
 Arizona has the best weather,
 The crime rate at New hampshire is high and Tennessee is relatively most affordable,
 The Weather in Maine is relatively worse with high crime rate.
