@@ -17,4 +17,4 @@ Arizona has the best weather,
 The crime rate at New hampshire is high and Tennessee is relatively most affordable,
 The Weather in Maine is relatively worse with high crime rate.
 # Recommendations:
-Investments in States like Georgia,Florida and Tennessee will thrive more than other places
+Investments in States like Georgia,Florida and Tennessee will thrive more than other places.
